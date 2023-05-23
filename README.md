@@ -1,4 +1,4 @@
-# Video Games Sales Data (1980-2010) Analysis with Tableau
+# Video Games Sales Data (1980-2010) Analysis in Tableau
 ## Introduction
 
 ### About the Analysis 
