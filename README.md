@@ -30,3 +30,19 @@ The dashboard is great, but what if we are only interested in games from a speci
 The graph on the top right changes depending on how we select our filter(s)! If we, e.g., like "Action", we can see how many action games were sold on the "PS", "PS2", "PS3" and "PSP". We'll need this to answer a question:
 **How many video game copies (in millions) did "Sony Computer Entertainment" sell for the PS2 in the "Racing" Genre?**
 The answer is **35.41 million** according to the graph.
+
+### Create and Navigate a Story
+Here, we will build a story to help answer questions about the Playstation, Nintendo, and Xbox gaming systems. Both the <code>Sales by Platform</code> (top right) and <code>Sales by Genre</code> (bottom right) are enabled as filters. 
+A similar dashboard for Nintendo and Xbox has also been setup (in the same way we have done it before but the analysis are based on Nintendo and Xbox respectively), so we combined them to to create our story. 
+[Picture]
+Based on the story we have solved the following questions:
+**1. The best-selling "Shooter" on both the "Playstation (PS)" and "Xbox" was "Call of Duty: Black Ops". On which platform did it have the highest sales? "Playstation" or "Xbox"?**
+[Picture]
+The story in the picture tells us (by viewing on the "Sales by Platform" plot) that X360 (Xbox) had more than 150 million sales.
+[Picture]
+The above story tells us (by viewing on the "Sales by Platform" plot) that PS2 (Playstation 2) had more 100 million sales.
+**Indeed! "Call of Duty: Black Ops" sold more copies on the Xbox than on Playstation.**
+
+**3. What was the name of the best-selling "Playstation 2 (PS2)" game published by "Electronic Arts" in the "Simulation" genre?**
+[Picture]
+The above story tells us (by viewing on the "Top Video Games" plot) that **The Sims** was the **best-selling "Playstation 2 (PS2)"** game that was released in 2003 and it sold 2.77 copies globally.
